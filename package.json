@@ -1,0 +1,25 @@
+{
+  "name": "random-chat",
+  "version": "1.0.0",
+  "description": "random-chat server backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techtabor/random-chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Techtábor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techtabor/random-chat/issues"
+  },
+  "homepage": "https://github.com/techtabor/random-chat#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
